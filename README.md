@@ -12,10 +12,8 @@
 
 ### 🚀 About Me
 
-- 🔭 **Portfolio:** [Click to View Portfolio](https://your-portfolio-link.com)
-- 🧠 **Currently Building:** AI-Powered Smart Resume-to-Job Description Matcher & ATS Optimizer
+- 🔭 **Portfolio:** [Click to View Portfolio](https://portfolio-brabu-m.netlify.app/)
 - 🎓 **Education:** Pursuing B.E. in Computer Science and Engineering at University College of Engineering, Nagercoil (Anna University)
-- ⚙️ **Workflow:** Manual Development + AI-assisted tool integrations
 - 📄 **Resume:** [Click to View Resume](https://your-resume-link.com)
 
 ---
@@ -32,10 +30,10 @@
 ### 🌐 Social Presence
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="www.linkedin.com/in/brabu-murugan-a7a15b297" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:brabumurugan18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
