@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Brabu%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front%20end%20engineer%20%7C%20MERN%20stack%20developer%20%7C%20BackEnd%20engineer&descAlignY=60" alt="Brabu M Header" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Setup GIF" width="100%" />
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" alt="Pixel Mario Desk GIF" width="100%" />
 </p>
 # Hi there 👋 It's me Brabu M
 
